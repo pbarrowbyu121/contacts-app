@@ -1,0 +1,95 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "first_name": "Peter",
+      "last_name": "Barrow",
+      "phone": "801-979-3402",
+      "address1": "121 E 6850 S",
+      "address2": "Apt B",
+      "city": "Midvale",
+      "state": "UT",
+      "zip": "84047",
+      "email": "pbarrow@example.com",
+      "important": false
+    },
+    {
+      "id": 2,
+      "first_name": "Sam",
+      "last_name": "Griffiths",
+      "phone": "801-209-3987",
+      "address1": "121 E 6850 S",
+      "address2": "Apt B",
+      "city": "Midvale",
+      "state": "UT",
+      "zip": "84047",
+      "email": "sgriff@example.com",
+      "important": true
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Lacusta",
+      "phone": "801-555-7865",
+      "address1": "123 Fake St",
+      "address2": "",
+      "city": "Lehi",
+      "state": "UT",
+      "zip": "86757",
+      "email": "benl@example.com",
+      "important": true,
+      "id": 3
+    },
+    {
+      "first_name": "Frank",
+      "last_name": "Furter",
+      "phone": "801-555-9876",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "email": "frankf@example.com",
+      "important": "",
+      "id": 4
+    },
+    {
+      "first_name": "Ben",
+      "last_name": "Kenobi",
+      "phone": "",
+      "address1": "",
+      "address2": "",
+      "city": "Dune Sea",
+      "state": "Tatooine",
+      "zip": "",
+      "email": "",
+      "important": false,
+      "id": 5
+    },
+    {
+      "first_name": "Sheev",
+      "last_name": "Palpatine",
+      "phone": "",
+      "address1": "",
+      "address2": "",
+      "city": "Capital",
+      "state": "Coruscant",
+      "zip": "",
+      "email": "",
+      "important": false,
+      "id": 6
+    },
+    {
+      "first_name": "Anakin",
+      "last_name": "Skywalker",
+      "phone": "",
+      "address1": "",
+      "address2": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "email": "ani@example.com",
+      "important": "",
+      "id": 7
+    }
+  ]
+}
